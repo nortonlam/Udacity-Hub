@@ -1,3 +1,6 @@
+/*
+ * Copyright (C) 2015 Norton Lam - Udacity Nanodegree
+ */
 package nortonlam.com.udacityhub;
 
 import android.support.v7.app.AppCompatActivity;
@@ -40,7 +43,7 @@ public class MainActivity extends AppCompatActivity {
 
     /**
      * Opens the selecetd app
-     * 
+     *
      * @param view
      */
     public void openApp(View view) {
