@@ -15,69 +15,45 @@
         android:id="@+id/titleTextView" />
 
     <Button
-        android:layout_width="250dp"
-        android:layout_height="wrap_content"
+        style="@style/AppButton"
         android:text="@string/app_name_1"
         android:id="@+id/app1Button"
         android:layout_below="@+id/titleTextView"
-        android:layout_centerHorizontal="true"
-        android:layout_marginTop="20dp"
-        android:background="@color/udacity_orange"
         android:onClick="openApp" />
 
     <Button
-        android:layout_width="250dp"
-        android:layout_height="wrap_content"
+        style="@style/AppButton"
         android:text="@string/app_name_2"
         android:id="@+id/app2Button"
         android:layout_below="@+id/app1Button"
-        android:layout_centerHorizontal="true"
-        android:layout_marginTop="20dp"
-        android:background="@color/udacity_orange"
         android:onClick="openApp" />
 
     <Button
-        android:layout_width="250dp"
-        android:layout_height="wrap_content"
+        style="@style/AppButton"
         android:text="@string/app_name_3"
         android:id="@+id/app3Button"
         android:layout_below="@+id/app2Button"
-        android:layout_centerHorizontal="true"
-        android:layout_marginTop="20dp"
-        android:background="@color/udacity_orange"
         android:onClick="openApp" />
 
     <Button
-        android:layout_width="250dp"
-        android:layout_height="wrap_content"
+        style="@style/AppButton"
         android:text="@string/app_name_4"
         android:id="@+id/app4Button"
         android:layout_below="@+id/app3Button"
-        android:layout_centerHorizontal="true"
-        android:layout_marginTop="20dp"
-        android:background="@color/udacity_orange"
         android:onClick="openApp" />
 
     <Button
-        android:layout_width="250dp"
-        android:layout_height="wrap_content"
+        style="@style/AppButton"
         android:text="@string/app_name_5"
         android:id="@+id/app5Button"
         android:layout_below="@+id/app4Button"
-        android:layout_centerHorizontal="true"
-        android:layout_marginTop="20dp"
-        android:background="@color/udacity_orange"
         android:onClick="openApp" />
 
     <Button
-        android:layout_width="250dp"
-        android:layout_height="wrap_content"
+        style="@style/AppButton"
         android:text="@string/app_name_6"
         android:id="@+id/app6Button"
         android:layout_below="@+id/app5Button"
-        android:layout_centerHorizontal="true"
-        android:layout_marginTop="20dp"
-        android:background="@color/udacity_orange"
         android:onClick="openApp" />
 
 </RelativeLayout>
