@@ -22,7 +22,7 @@
         android:layout_below="@+id/titleTextView"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="20dp"
-        android:background="#F08C35"
+        android:background="@color/udacity_orange"
         android:onClick="openApp" />
 
     <Button
@@ -33,7 +33,7 @@
         android:layout_below="@+id/app1Button"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="20dp"
-        android:background="#F08C35"
+        android:background="@color/udacity_orange"
         android:onClick="openApp" />
 
     <Button
@@ -44,7 +44,7 @@
         android:layout_below="@+id/app2Button"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="20dp"
-        android:background="#F08C35"
+        android:background="@color/udacity_orange"
         android:onClick="openApp" />
 
     <Button
@@ -55,7 +55,7 @@
         android:layout_below="@+id/app3Button"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="20dp"
-        android:background="#F08C35"
+        android:background="@color/udacity_orange"
         android:onClick="openApp" />
 
     <Button
@@ -66,7 +66,7 @@
         android:layout_below="@+id/app4Button"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="20dp"
-        android:background="#F08C35"
+        android:background="@color/udacity_orange"
         android:onClick="openApp" />
 
     <Button
@@ -77,7 +77,7 @@
         android:layout_below="@+id/app5Button"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="20dp"
-        android:background="#F08C35"
+        android:background="@color/udacity_orange"
         android:onClick="openApp" />
 
 </RelativeLayout>
